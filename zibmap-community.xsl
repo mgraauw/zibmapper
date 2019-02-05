@@ -11,25 +11,21 @@
     
     <xsl:template match="/">
         <prototype>
-            <xsl:for-each select="//dataset">
-                <xsl:sort select="name[@language=$lang]"/>
+            <xsl:for-each select="//dataset[@statusCode='final']">
+                <xsl:sort select="concept/name[@language=$lang]"/>
                 <xsl:apply-templates/>
             </xsl:for-each>
         </prototype>
     </xsl:template>
     
-    <!--<xsl:template match="dataset[@statusCode='final'][name='nl.zorg.Probleem']">-->
-    <xsl:template match="dataset[@statusCode='final']">
-        <xsl:apply-templates select=".//concept"/>
-    </xsl:template>
-    
-    <xsl:template match="concept">
+    <xsl:template match="concept[@statusCode='final']">
         <data type="{name[@language=$lang]/string()}" label="{string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')}" datatype="enum">
-            <enumValue>=ValueSetFromConcept</enumValue>
-            <enumValue>=ValueFromConcept</enumValue>
-            <enumValue>=n.v.t.</enumValue>
-            <enumValue>=Anders</enumValue>
-            <enumValue>=Onbekend</enumValue>
+            <enumValue>ValueSetFromConcept</enumValue>
+            <enumValue>ValueFromConcept</enumValue>
+            <enumValue>UnitFromConcept</enumValue>
+            <enumValue>NP</enumValue>
+            <enumValue>OTH</enumValue>
+            <enumValue>UNK</enumValue>
             <xsl:if test="valueDomain[@type='code']">
                 <xsl:variable name="concList" select="valueDomain/conceptList/@id/string()"/>
                 <xsl:variable name="termAssoc" select="//terminologyAssociation[@conceptId=$concList]"/>
@@ -40,15 +36,16 @@
                 <xsl:for-each select="$valueSet/conceptList/(concept | exception)">
                     <xsl:choose>
                         <xsl:when test="designation[@language=$lang]">
-                            <enumValue><xsl:value-of select="designation[@language=$lang]/@displayName/string()"/></enumValue>
+                            <enumValue>=<xsl:value-of select="designation[@language=$lang]/@displayName/string()"/></enumValue>
                         </xsl:when>
                         <xsl:otherwise>
-                            <enumValue><xsl:value-of select="./@displayName/string()"/></enumValue>
+                            <enumValue>=<xsl:value-of select="./@displayName/string()"/></enumValue>
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:for-each>
             </xsl:if>
         </data>
+        <xsl:apply-templates/>
     </xsl:template>
 
     <xsl:template match="@*|node()">
