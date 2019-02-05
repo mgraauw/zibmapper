@@ -11,14 +11,27 @@
     
     <xsl:template match="/">
         <prototype>
-            <xsl:for-each select="//dataset[@statusCode='final']">
-                <xsl:sort select="concept/name[@language=$lang]"/>
-                <xsl:apply-templates/>
-            </xsl:for-each>
+            <data type="zib2017type" label="zib 2017" datatype="enum">
+                <xsl:for-each select="//dataset[@statusCode='final']">
+                    <xsl:sort select="concept/name[@language=$lang]"/>
+                    <xsl:apply-templates/>
+                </xsl:for-each>
+            </data>
+            <data type="zib2017value" label="zib 2017 value" datatype="enum">
+                <enumValue>ValueSetFromConcept</enumValue>
+                <enumValue>ValueFromConcept</enumValue>
+                <enumValue>UnitFromConcept</enumValue>
+                <enumValue>NP</enumValue>
+                <enumValue>OTH</enumValue>
+                <enumValue>UNK</enumValue>
+                <enumValue>FIXED</enumValue>
+            </data>
+            <data type="zib2017fixed" label="zib 2017 fixed" datatype="string">
+            </data>
         </prototype>
     </xsl:template>
     
-    <xsl:template match="concept[@statusCode='final']">
+<!--    <xsl:template match="concept[@statusCode='final']">
         <data type="{name[@language=$lang]/string()}" label="{string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')}" datatype="enum">
             <enumValue>ValueSetFromConcept</enumValue>
             <enumValue>ValueFromConcept</enumValue>
@@ -47,7 +60,12 @@
         </data>
         <xsl:apply-templates/>
     </xsl:template>
-
+-->
+    <xsl:template match="concept[name][@statusCode='final']">
+        <enumValue><xsl:value-of select="string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')"/></enumValue>
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <xsl:template match="@*|node()">
     </xsl:template>
 </xsl:stylesheet>
