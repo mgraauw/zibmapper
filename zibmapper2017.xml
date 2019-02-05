@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prototype>
+   <data type="Ademhaling" label="Ademhaling" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Ademhaling" label="Ademhaling" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AlcoholGebruik" label="AlcoholGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AlcoholGebruik" label="AlcoholGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Alert" label="Alert" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Alert" label="Alert" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AlgemeneMeting" label="AlgemeneMeting" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AlgemeneMeting" label="AlgemeneMeting" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AllergieIntolerantie"
+         label="AllergieIntolerantie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="AllergieIntolerantie"
+         label="AllergieIntolerantie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ApgarScore" label="ApgarScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ApgarScore" label="ApgarScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BarthelIndex" label="BarthelIndex" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BarthelIndex" label="BarthelIndex" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BehandelAanwijzing"
+         label="BehandelAanwijzing"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BehandelAanwijzing"
+         label="BehandelAanwijzing"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Behandeldoel" label="Behandeldoel" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Behandeldoel" label="Behandeldoel" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Betaler" label="Betaler" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Betaler" label="Betaler" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Blaasfunctie" label="Blaasfunctie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Blaasfunctie" label="Blaasfunctie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Bloeddruk" label="Bloeddruk" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Bloeddruk" label="Bloeddruk" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Brandwond" label="Brandwond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Brandwond" label="Brandwond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BurgerlijkeStaatRC"
+         label="BurgerlijkeStaatRC"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="BurgerlijkeStaatRC"
+         label="BurgerlijkeStaatRC"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ChecklistPijnGedrag"
+         label="ChecklistPijnGedrag"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ChecklistPijnGedrag"
+         label="ChecklistPijnGedrag"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ComfortScore" label="ComfortScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ComfortScore" label="ComfortScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contact" label="Contact" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contact" label="Contact" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contactpersoon" label="Contactpersoon" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contactpersoon" label="Contactpersoon" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DOSScore" label="DOSScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DOSScore" label="DOSScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Darmfunctie" label="Darmfunctie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Darmfunctie" label="Darmfunctie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DecubitusWond" label="DecubitusWond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DecubitusWond" label="DecubitusWond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DrugsGebruik" label="DrugsGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="DrugsGebruik" label="DrugsGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FLACCpijnScore" label="FLACCpijnScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FLACCpijnScore" label="FLACCpijnScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Familieanamnese" label="Familieanamnese" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Familieanamnese" label="Familieanamnese" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctieHoren" label="FunctieHoren" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctieHoren" label="FunctieHoren" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctieZien" label="FunctieZien" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctieZien" label="FunctieZien" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctioneleOfMentaleStatus"
+         label="FunctioneleOfMentaleStatus"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FunctioneleOfMentaleStatus"
+         label="FunctioneleOfMentaleStatus"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Gezinssituatie" label="Gezinssituatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Gezinssituatie" label="Gezinssituatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GezinssituatieKind"
+         label="GezinssituatieKind"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GezinssituatieKind"
+         label="GezinssituatieKind"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GlasgowComaScale" label="GlasgowComaScale" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GlasgowComaScale" label="GlasgowComaScale" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Hartfrequentie" label="Hartfrequentie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Hartfrequentie" label="Hartfrequentie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Huidaandoening" label="Huidaandoening" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Huidaandoening" label="Huidaandoening" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="HulpVanAnderen" label="HulpVanAnderen" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="HulpVanAnderen" label="HulpVanAnderen" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Infuus" label="Infuus" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Infuus" label="Infuus" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="LaboratoriumUitslag"
+         label="LaboratoriumUitslag"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="LaboratoriumUitslag"
+         label="LaboratoriumUitslag"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="LevensovertuigingRC"
+         label="LevensovertuigingRC"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="LevensovertuigingRC"
+         label="LevensovertuigingRC"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamsgewicht" label="Lichaamsgewicht" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamsgewicht" label="Lichaamsgewicht" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamslengte" label="Lichaamslengte" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamslengte" label="Lichaamslengte" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamstemperatuur"
+         label="Lichaamstemperatuur"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Lichaamstemperatuur"
+         label="Lichaamstemperatuur"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MUSTScore" label="MUSTScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MUSTScore" label="MUSTScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedicatieGebruik" label="MedicatieGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedicatieGebruik" label="MedicatieGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedicatieToediening"
+         label="MedicatieToediening"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedicatieToediening"
+         label="MedicatieToediening"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Medicatieafspraak" label="Medicatieafspraak" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Medicatieafspraak" label="Medicatieafspraak" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Medicatieverstrekking"
+         label="Medicatieverstrekking"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedischHulpmiddel" label="MedischHulpmiddel" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="MedischHulpmiddel" label="MedischHulpmiddel" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Mobiliteit" label="Mobiliteit" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Mobiliteit" label="Mobiliteit" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="NationaliteitRC" label="NationaliteitRC" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="NationaliteitRC" label="NationaliteitRC" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="O2Saturatie" label="O2Saturatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="O2Saturatie" label="O2Saturatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="OntwikkelingKind" label="OntwikkelingKind" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="OntwikkelingKind" label="OntwikkelingKind" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Opleiding" label="Opleiding" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Opleiding" label="Opleiding" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GeplandeZorgActiviteit"
+         label="GeplandeZorgActiviteit"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GeplandeZorgActiviteit"
+         label="GeplandeZorgActiviteit"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ParticipatieInMaatschappij"
+         label="ParticipatieInMaatschappij"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ParticipatieInMaatschappij"
+         label="ParticipatieInMaatschappij"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Patient" label="Patient" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Patient" label="Patient" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="PijnScore" label="PijnScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="PijnScore" label="PijnScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Polsfrequentie" label="Polsfrequentie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Polsfrequentie" label="Polsfrequentie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Probleem" label="Probleem" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Probleem" label="Probleem" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQ65+Score" label="SNAQ65+Score" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQ65+Score" label="SNAQ65+Score" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQScore" label="SNAQScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQScore" label="SNAQScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQrcScore" label="SNAQrcScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SNAQrcScore" label="SNAQrcScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Schedelomvang" label="Schedelomvang" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Schedelomvang" label="Schedelomvang" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SondeSysteem" label="SondeSysteem" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="SondeSysteem" label="SondeSysteem" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Stoma" label="Stoma" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Stoma" label="Stoma" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="StrongKidsScore" label="StrongKidsScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="StrongKidsScore" label="StrongKidsScore" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Taalvaardigheid" label="Taalvaardigheid" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Taalvaardigheid" label="Taalvaardigheid" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TabakGebruik" label="TabakGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TabakGebruik" label="TabakGebruik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TekstUitslag" label="TekstUitslag" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TekstUitslag" label="TekstUitslag" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Toedieningsafspraak"
+         label="Toedieningsafspraak"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Toedieningsafspraak"
+         label="Toedieningsafspraak"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="UitkomstVanZorg" label="UitkomstVanZorg" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="UitkomstVanZorg" label="UitkomstVanZorg" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Vaccinatie" label="Vaccinatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Vaccinatie" label="Vaccinatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotDrinken"
+         label="VermogenTotDrinken"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotDrinken"
+         label="VermogenTotDrinken"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotEten" label="VermogenTotEten" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotEten" label="VermogenTotEten" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotMondverzorging"
+         label="VermogenTotMondverzorging"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotMondverzorging"
+         label="VermogenTotMondverzorging"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotToiletgang"
+         label="VermogenTotToiletgang"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotToiletgang"
+         label="VermogenTotToiletgang"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotUiterlijkeVerzorging"
+         label="VermogenTotUiterlijkeVerzorging"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotUiterlijkeVerzorging"
+         label="VermogenTotUiterlijkeVerzorging"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotVerpleegtechnischeHandelingen"
+         label="VermogenTotVerpleegtechnischeHandelingen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotVerpleegtechnischeHandelingen"
+         label="VermogenTotVerpleegtechnischeHandelingen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZelfstandigMedicatiegebruik"
+         label="VermogenTotZelfstandigMedicatiegebruik"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZelfstandigMedicatiegebruik"
+         label="VermogenTotZelfstandigMedicatiegebruik"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZichKleden"
+         label="VermogenTotZichKleden"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZichKleden"
+         label="VermogenTotZichKleden"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZichWassen"
+         label="VermogenTotZichWassen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VermogenTotZichWassen"
+         label="VermogenTotZichWassen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VerpleegkundigeInterventie"
+         label="VerpleegkundigeInterventie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VerpleegkundigeInterventie"
+         label="VerpleegkundigeInterventie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Verrichting" label="Verrichting" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Verrichting" label="Verrichting" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Verstrekking" label="Verstrekking" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Verstrekkingsverzoek"
+         label="Verstrekkingsverzoek"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Verstrekkingsverzoek"
+         label="Verstrekkingsverzoek"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Vochtbalans" label="Vochtbalans" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Vochtbalans" label="Vochtbalans" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Voedingsadvies" label="Voedingsadvies" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Voedingsadvies" label="Voedingsadvies" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VoedingspatroonZuigeling"
+         label="VoedingspatroonZuigeling"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VoedingspatroonZuigeling"
+         label="VoedingspatroonZuigeling"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VrijheidsbeperkendeMaatregelen"
+         label="VrijheidsbeperkendeMaatregelen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="VrijheidsbeperkendeMaatregelen"
+         label="VrijheidsbeperkendeMaatregelen"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Wilsverklaring" label="Wilsverklaring" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Wilsverklaring" label="Wilsverklaring" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Wond" label="Wond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Wond" label="Wond" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Woonsituatie" label="Woonsituatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Woonsituatie" label="Woonsituatie" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Ziektebeleving" label="Ziektebeleving" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Ziektebeleving" label="Ziektebeleving" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zorgaanbieder" label="Zorgaanbieder" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zorgaanbieder" label="Zorgaanbieder" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zorgverlener" label="Zorgverlener" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zorgverlener" label="Zorgverlener" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zwangerschap" label="Zwangerschap" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Zwangerschap" label="Zwangerschap" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Adresgegevens" label="Adresgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Adresgegevens" label="Adresgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ZIBRoot" label="ZIBRoot" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="ZIBRoot" label="ZIBRoot" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Bereik" label="Bereik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Bereik" label="Bereik" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contactgegevens" label="Contactgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Contactgegevens" label="Contactgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="FarmaceutischProduct"
+         label="FarmaceutischProduct"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GebruiksInstructie"
+         label="GebruiksInstructie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="GebruiksInstructie"
+         label="GebruiksInstructie"
+         datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Naamgegevens" label="Naamgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Naamgegevens" label="Naamgegevens" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="Product" label="Product" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TijdsInterval" label="TijdsInterval" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+   <data type="TijdsInterval" label="TijdsInterval" datatype="enum">
+      <enumValue>=ValueSetFromConcept</enumValue>
+      <enumValue>=ValueFromConcept</enumValue>
+      <enumValue>=n.v.t.</enumValue>
+      <enumValue>=Anders</enumValue>
+      <enumValue>=Onbekend</enumValue>
+   </data>
+</prototype>
