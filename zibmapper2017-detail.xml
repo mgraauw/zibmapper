@@ -147,16 +147,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -170,116 +160,6 @@
       <enumValue>=Venturi masker</enumValue>
       <enumValue>=Non-rebreathing masker</enumValue>
       <enumValue>=Anders</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Ademhaling.ToegediendeZuurstof.ToedieningHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="Adresgegevens" label="Adresgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -477,14 +357,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Conditie" label="Alert.Conditie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Alert.Conditie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1133,14 +1005,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="BehandelAanwijzing.Wilsverklaring" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Behandeldoel" label="Behandeldoel" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
@@ -1169,14 +1033,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Behandeldoel.Streefwaarde" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="GewensteGezondheidstoestand"
          label="Behandeldoel.GewensteGezondheidstoestand"
          datatype="enum">
@@ -1187,25 +1043,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Behandeldoel.GewensteGezondheidstoestand"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Probleem" label="Behandeldoel.Probleem" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Behandeldoel.Probleem" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1405,25 +1243,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Betaler.Adresgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Contactgegevens"
          label="Betaler.Contactgegevens"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Betaler.Contactgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1450,14 +1272,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Urostoma" label="Blaasfunctie.Urostoma" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Blaasfunctie.Urostoma" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1495,16 +1309,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="Blaasfunctie.UrineKatheter.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -1521,127 +1325,9 @@
       <enumValue>=Dubbel J catheter</enumValue>
       <enumValue>=Anders</enumValue>
    </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Blaasfunctie.UrineKatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Incontinentiemateriaal"
          label="Blaasfunctie.Incontinentiemateriaal"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Blaasfunctie.Incontinentiemateriaal" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -2153,23 +1839,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Contact.ContactMet" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Locatie" label="Contact.Locatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Contact.Locatie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -2213,25 +1883,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Contact.RedenContact.Probleem" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Verrichting"
          label="Contact.RedenContact.Verrichting"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Contact.RedenContact.Verrichting" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -2387,14 +2041,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Contactpersoon.Naamgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Contactgegevens"
          label="Contactpersoon.Contactgegevens"
          datatype="enum">
@@ -2405,25 +2051,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Contactpersoon.Contactgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Adresgegevens"
          label="Contactpersoon.Adresgegevens"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Contactpersoon.Adresgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -2674,14 +2304,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Darmfunctie.Stoma" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Frequentie" label="Darmfunctie.Frequentie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
@@ -2726,14 +2348,6 @@
    <data type="Incontinentiemateriaal"
          label="Darmfunctie.Incontinentiemateriaal"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Darmfunctie.Incontinentiemateriaal" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -3161,16 +2775,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Familieanamnese.Familielid.Aandoening.Probleem"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="IsDoodsoorzaak"
          label="Familieanamnese.Familielid.Aandoening.IsDoodsoorzaak"
          datatype="enum">
@@ -3355,16 +2959,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -3376,56 +2970,6 @@
       <enumValue>UNK</enumValue>
       <enumValue>=Geen</enumValue>
       <enumValue>=Gehoorapparaat</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="AnatomischeLocatie"
          label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel.AnatomischeLocatie"
@@ -3439,56 +2983,6 @@
       <enumValue>=Linkeroor</enumValue>
       <enumValue>=Rechteroor</enumValue>
       <enumValue>=Beide oren</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieHoren.HorenHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="Toelichting" label="FunctieHoren.Toelichting" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -3549,16 +3043,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -3574,116 +3058,6 @@
       <enumValue>=contactlenzen</enumValue>
       <enumValue>=loep</enumValue>
       <enumValue>=anders</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="FunctieZien.ZienHulpmiddel.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="Toelichting" label="FunctieZien.Toelichting" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -3748,16 +3122,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Hulpmiddel"
-         label="FunctioneleOfMentaleStatus.Hulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="FunctioneleOfMentaleStatus.Hulpmiddel"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -3868,16 +3232,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="GebruiksInstructie.Doseerinstructie.Dosering.Toedieningssnelheid"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Toedieningsduur"
          label="GebruiksInstructie.Doseerinstructie.Dosering.Toedieningsduur"
          datatype="enum">
@@ -3888,27 +3242,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="GebruiksInstructie.Doseerinstructie.Dosering.Toedieningsduur"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Keerdosis"
-         label="GebruiksInstructie.Doseerinstructie.Dosering.Keerdosis"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="GebruiksInstructie.Doseerinstructie.Dosering.Keerdosis"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -3972,16 +3306,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Frequentie"
-         label="GebruiksInstructie.Doseerinstructie.Dosering.Toedieningsschema.Frequentie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="GebruiksInstructie.Doseerinstructie.Dosering.Toedieningsschema.Frequentie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -4125,16 +3449,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="GeplandeZorgActiviteit.MedicatieToediening2"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Verrichting"
          label="GeplandeZorgActiviteit.Verrichting"
          datatype="enum">
@@ -4145,25 +3459,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="GeplandeZorgActiviteit.Verrichting" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="VerpleegkundigeInterventie"
-         label="GeplandeZorgActiviteit.VerpleegkundigeInterventie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="GeplandeZorgActiviteit.VerpleegkundigeInterventie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -4183,14 +3479,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="GeplandeZorgActiviteit.Vaccinatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Afspraak"
          label="GeplandeZorgActiviteit.Afspraak"
          datatype="enum">
@@ -4201,25 +3489,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="GeplandeZorgActiviteit.Afspraak" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="MedischHulpmiddel"
-         label="GeplandeZorgActiviteit.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="GeplandeZorgActiviteit.MedischHulpmiddel"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -4240,14 +3510,6 @@
    <data type="BurgerlijkeStaat"
          label="Gezinssituatie.BurgerlijkeStaat"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Gezinssituatie.BurgerlijkeStaat" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -4381,14 +3643,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="GezinssituatieKind.OuderVerzorger" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Kind" label="GezinssituatieKind.Kind" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
@@ -4398,14 +3652,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Kind" label="GezinssituatieKind.Kind.Kind" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="GezinssituatieKind.Kind.Kind" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -4444,16 +3690,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="BroerOfZus"
-         label="GezinssituatieKind.BroerOfZus.BroerOfZus"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="GezinssituatieKind.BroerOfZus.BroerOfZus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -4667,14 +3903,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Huidaandoening.Oorzaak" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="AnatomischeLocatie"
          label="Huidaandoening.AnatomischeLocatie"
          datatype="enum">
@@ -4736,16 +3964,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="HulpVanAnderen.Hulpverlener.Zorgverlener"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Mantelzorger"
          label="HulpVanAnderen.Hulpverlener.Mantelzorger"
          datatype="enum">
@@ -4756,27 +3974,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="HulpVanAnderen.Hulpverlener.Mantelzorger"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Zorgaanbieder"
-         label="HulpVanAnderen.Hulpverlener.Zorgaanbieder"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="HulpVanAnderen.Hulpverlener.Zorgaanbieder"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -4858,16 +4056,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="Infuus.Infuuskatheter.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -4885,116 +4073,6 @@
       <enumValue>=Hemodialyse katheter</enumValue>
       <enumValue>=Subcutaan infuus</enumValue>
       <enumValue>=Anders</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="Infuus.Infuuskatheter.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="Toelichting" label="Infuus.Toelichting" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -5048,14 +4126,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Infuus.LumenOfLijn.SlotVloeistof" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ToedieningsSysteem"
          label="Infuus.LumenOfLijn.ToedieningsSysteem"
          datatype="enum">
@@ -5076,27 +4146,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Infuus.LumenOfLijn.ToedieningsSysteem.InfuusVloeistof"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Randapparaat"
-         label="Infuus.LumenOfLijn.ToedieningsSysteem.Randapparaat"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Infuus.LumenOfLijn.ToedieningsSysteem.Randapparaat"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -5473,27 +4523,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="LaboratoriumUitslag.GerelateerdeUitslag"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Aanvrager"
          label="LaboratoriumUitslag.Aanvrager"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="LaboratoriumUitslag.Aanvrager" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -5774,14 +4806,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="MedicatieGebruik.Voorschrijver" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Gebruiksproduct"
          label="MedicatieGebruik.Gebruiksproduct"
          datatype="enum">
@@ -5792,25 +4816,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="MedicatieGebruik.Gebruiksproduct" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Gebruiksinstructie"
          label="MedicatieGebruik.Gebruiksinstructie"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="MedicatieGebruik.Gebruiksinstructie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -5831,14 +4839,6 @@
    <data type="Gebruiksperiode"
          label="MedicatieGebruik.Gebruiksperiode"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="MedicatieGebruik.Gebruiksperiode" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -5944,27 +4944,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="MedicatieToediening.ToedieningsProduct"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Toedieningssnelheid"
-         label="MedicatieToediening.Toedieningssnelheid"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="MedicatieToediening.Toedieningssnelheid"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6055,27 +5035,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="MedicatieToediening.GerelateerdeAfspraak.Medicatieafspraak"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Toedieningsafspraak"
-         label="MedicatieToediening.GerelateerdeAfspraak.Toedieningsafspraak"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="MedicatieToediening.GerelateerdeAfspraak.Toedieningsafspraak"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6105,16 +5065,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="MedicatieToediening.Toediener.Patiënt"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Zorgverlener"
          label="MedicatieToediening.Toediener.Zorgverlener"
          datatype="enum">
@@ -6125,27 +5075,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="MedicatieToediening.Toediener.Zorgverlener"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Mantelzorger"
-         label="MedicatieToediening.Toediener.Mantelzorger"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="MedicatieToediening.Toediener.Mantelzorger"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6216,25 +5146,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Medicatieafspraak.Voorschrijver" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="RedenVanVoorschrijven"
-         label="Medicatieafspraak.RedenVanVoorschrijven"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Medicatieafspraak.RedenVanVoorschrijven"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6254,25 +5166,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Medicatieafspraak.Lichaamsgewicht" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Lichaamslengte"
          label="Medicatieafspraak.Lichaamslengte"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Medicatieafspraak.Lichaamslengte" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -6290,27 +5186,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Medicatieafspraak.Afgesprokengeneesmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Gebruiksinstructie"
-         label="Medicatieafspraak.Gebruiksinstructie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Medicatieafspraak.Gebruiksinstructie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6333,14 +5209,6 @@
    <data type="Gebruiksperiode"
          label="Medicatieafspraak.Gebruiksperiode"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Medicatieafspraak.Gebruiksperiode" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -6443,14 +5311,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Medicatieverstrekking.Verstrekker" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Verstrekkingsverzoek"
          label="Medicatieverstrekking.Verstrekkingsverzoek"
          datatype="enum">
@@ -6461,27 +5321,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Medicatieverstrekking.Verstrekkingsverzoek"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="VerstrektGeneesmiddel"
-         label="Medicatieverstrekking.VerstrektGeneesmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Medicatieverstrekking.VerstrektGeneesmiddel"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -6644,14 +5484,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="MedischHulpmiddel.Indicatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Toelichting"
          label="MedischHulpmiddel.Toelichting"
          datatype="enum">
@@ -6693,25 +5525,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="MedischHulpmiddel.Locatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Zorgverlener"
          label="MedischHulpmiddel.Zorgverlener"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="MedischHulpmiddel.Zorgverlener" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -6776,14 +5592,6 @@
    <data type="MedischHulpmiddel"
          label="Mobiliteit.MedischHulpmiddel"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Mobiliteit.MedischHulpmiddel" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -7192,23 +6000,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Patient.Naamgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Adresgegevens" label="Patient.Adresgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Patient.Adresgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -7219,14 +6011,6 @@
    <data type="Contactgegevens"
          label="Patient.Contactgegevens"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Patient.Contactgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -7822,16 +6606,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="SondeSysteem.Sonde.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -7852,116 +6626,6 @@
       <enumValue>=Neus-duodenumsonde</enumValue>
       <enumValue>=Anders</enumValue>
    </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="SondeSysteem.Sonde.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="SondeLengte" label="SondeSysteem.SondeLengte" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
@@ -7980,25 +6644,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="SondeSysteem.SondeVoeding" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="MedischHulpmiddel"
          label="SondeSysteem.MedischHulpmiddel"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="SondeSysteem.MedischHulpmiddel" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -8039,14 +6687,6 @@
       <enumValue>=anders</enumValue>
    </data>
    <data type="StomaMateriaal" label="Stoma.StomaMateriaal" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Stoma.StomaMateriaal" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -8364,14 +7004,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="TekstUitslag.Verrichting" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="TekstUitslagStatus"
          label="TekstUitslag.TekstUitslagStatus"
          datatype="enum">
@@ -8474,14 +7106,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Toedieningsafspraak.Verstrekker" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="GeneesmiddelBijToedieningsAfspraak"
          label="Toedieningsafspraak.GeneesmiddelBijToedieningsAfspraak"
          datatype="enum">
@@ -8492,27 +7116,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Toedieningsafspraak.GeneesmiddelBijToedieningsAfspraak"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Gebruiksinstructie"
-         label="Toedieningsafspraak.Gebruiksinstructie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Toedieningsafspraak.Gebruiksinstructie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -8552,25 +7156,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Toedieningsafspraak.Gebruiksperiode" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Medicatieafspraak"
-         label="Toedieningsafspraak.Medicatieafspraak"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Toedieningsafspraak.Medicatieafspraak"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -8667,14 +7253,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="UitkomstVanZorg.Meetwaarde" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Gezondheidstoestand"
          label="UitkomstVanZorg.Gezondheidstoestand"
          datatype="enum">
@@ -8685,25 +7263,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="UitkomstVanZorg.Gezondheidstoestand" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Interventie"
          label="UitkomstVanZorg.Interventie"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="UitkomstVanZorg.Interventie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -8762,14 +7324,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Toediener" label="Vaccinatie.Toediener" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Vaccinatie.Toediener" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -8898,16 +7452,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
@@ -8919,116 +7463,6 @@
       <enumValue>UNK</enumValue>
       <enumValue>=Gebitsprothese</enumValue>
       <enumValue>=Orthothese</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
-         label="VermogenTotMondverzorging.Prothese.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
    </data>
    <data type="VermogenTotToiletgang"
          label="VermogenTotToiletgang"
@@ -9100,16 +7534,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VermogenTotVerpleegtechnischeHandelingen.VerpleegkundigeInterventie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="VerrichtenVPKHandeling"
          label="VermogenTotVerpleegtechnischeHandelingen.VerrichtenVPKHandeling"
          datatype="enum">
@@ -9144,16 +7568,6 @@
       <enumValue>=Volledig afhankelijk</enumValue>
    </data>
    <data type="HulpBijToediening"
-         label="VermogenTotZelfstandigMedicatiegebruik.HulpBijToediening"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="VermogenTotZelfstandigMedicatiegebruik.HulpBijToediening"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9261,27 +7675,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VerpleegkundigeInterventie.Indicatie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Behandeldoel"
-         label="VerpleegkundigeInterventie.Behandeldoel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="VerpleegkundigeInterventie.Behandeldoel"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9361,16 +7755,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VerpleegkundigeInterventie.VerpleegkundigeActie.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Instructie"
          label="VerpleegkundigeInterventie.VerpleegkundigeActie.Instructie"
          datatype="enum">
@@ -9401,27 +7785,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VerpleegkundigeInterventie.VerpleegkundigeActie.Uitvoerder.Zorgverlener"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Verzorger"
-         label="VerpleegkundigeInterventie.VerpleegkundigeActie.Uitvoerder.Verzorger"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="VerpleegkundigeInterventie.VerpleegkundigeActie.Uitvoerder.Verzorger"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9441,27 +7805,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VerpleegkundigeInterventie.VerpleegkundigeActie.Uitvoerder.Patient"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Aanvrager"
-         label="VerpleegkundigeInterventie.Aanvrager"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="VerpleegkundigeInterventie.Aanvrager"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9540,14 +7884,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Verrichting.Indicatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="VerrichtingType"
          label="Verrichting.VerrichtingType"
          datatype="enum">
@@ -9579,23 +7915,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Verrichting.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Locatie" label="Verrichting.Locatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Verrichting.Locatie" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -9611,23 +7931,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Verrichting.Uitvoerder" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Aanvrager" label="Verrichting.Aanvrager" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Verrichting.Aanvrager" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -9655,27 +7959,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Verstrekkingsverzoek.BeoogdVerstrekker"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="TeVerstrekkenGeneesmiddel"
-         label="Verstrekkingsverzoek.TeVerstrekkenGeneesmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Verstrekkingsverzoek.TeVerstrekkenGeneesmiddel"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9696,16 +7980,6 @@
       <enumValue>UNK</enumValue>
    </data>
    <data type="Verbruiksperiode"
-         label="Verstrekkingsverzoek.Verbruiksperiode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="Verstrekkingsverzoek.Verbruiksperiode"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -9920,16 +8194,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="VoedingspatroonZuigeling.Voedingsadvies"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Voeding"
          label="VoedingspatroonZuigeling.Voeding"
          datatype="enum">
@@ -10131,25 +8395,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Wilsverklaring.Aandoening" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Vertegenwoordiger"
          label="Wilsverklaring.Vertegenwoordiger"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wilsverklaring.Vertegenwoordiger" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -10342,107 +8590,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="Wond.Drain.MedischHulpmiddel.Product"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ProductType"
          label="Wond.Drain.MedischHulpmiddel.Product.ProductType"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Wond.Drain.MedischHulpmiddel" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -10538,16 +8688,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type=""
-         label="ZIBRoot.Informatiebron.PatientAlsBron"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Zorgverlener"
          label="ZIBRoot.Informatiebron.Zorgverlener"
          datatype="enum">
@@ -10558,25 +8698,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="ZIBRoot.Informatiebron.Zorgverlener" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="BetrokkeneAlsBron"
-         label="ZIBRoot.Informatiebron.BetrokkeneAlsBron"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="ZIBRoot.Informatiebron.BetrokkeneAlsBron"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -10604,25 +8726,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="ZIBRoot.Auteur.PatientAlsAuteur" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="ZorgverlenerAlsAuteur"
-         label="ZIBRoot.Auteur.ZorgverlenerAlsAuteur"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type=""
          label="ZIBRoot.Auteur.ZorgverlenerAlsAuteur"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -10635,14 +8739,6 @@
    <data type="BetrokkeneAlsAuteur"
          label="ZIBRoot.Auteur.BetrokkeneAlsAuteur"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="ZIBRoot.Auteur.BetrokkeneAlsAuteur" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -10666,25 +8762,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="ZIBRoot.Onderwerp.Patient" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Betrokkene"
          label="ZIBRoot.Onderwerp.Betrokkene"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="ZIBRoot.Onderwerp.Betrokkene" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -10797,25 +8877,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Zorgaanbieder.Contactgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Adresgegevens"
          label="Zorgaanbieder.Adresgegevens"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Zorgaanbieder.Adresgegevens" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -10884,14 +8948,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Zorgverlener.Naamgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Specialisme" label="Zorgverlener.Specialisme" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
@@ -10912,14 +8968,6 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Zorgverlener.Adresgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Contactgegevens"
          label="Zorgverlener.Contactgegevens"
          datatype="enum">
@@ -10930,25 +8978,9 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="" label="Zorgverlener.Contactgegevens" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
    <data type="Zorgaanbieder"
          label="Zorgverlener.Zorgaanbieder"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="" label="Zorgverlener.Zorgaanbieder" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>

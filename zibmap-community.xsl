@@ -52,7 +52,7 @@
         </prototype>
     </xsl:template>
     
-    <xsl:template match="concept[@statusCode='final']" mode="detail">
+    <xsl:template match="concept[name][@statusCode='final']" mode="detail">
         <data type="{name[@language=$lang]/string()}" label="{string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')}" datatype="enum">
             <enumValue>ValueSetFromConcept</enumValue>
             <enumValue>ValueFromConcept</enumValue>
