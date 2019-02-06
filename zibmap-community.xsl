@@ -8,13 +8,25 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" indent="yes"/>
     <xsl:variable name="lang" select="'nl-NL'"/>
+    <xsl:variable name="mode" select="'detail'"/> <!-- detail or plain -->
     
     <xsl:template match="/">
+        <xsl:choose>
+            <xsl:when test="$mode='plain'">
+                <xsl:call-template name="plain"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:call-template name="detail"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template name="plain">
         <prototype>
             <data type="zib2017type" label="zib 2017" datatype="enum">
                 <xsl:for-each select="//dataset[@statusCode='final']">
                     <xsl:sort select="concept/name[@language=$lang]"/>
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates mode="plain"/>
                 </xsl:for-each>
             </data>
             <data type="zib2017value" label="zib 2017 value" datatype="enum">
@@ -31,7 +43,16 @@
         </prototype>
     </xsl:template>
     
-<!--    <xsl:template match="concept[@statusCode='final']">
+    <xsl:template name="detail">
+        <prototype>
+            <xsl:for-each select="//dataset[@statusCode='final']">
+                <xsl:sort select="concept/name[@language=$lang]"/>
+                <xsl:apply-templates mode="detail"/>
+            </xsl:for-each>
+        </prototype>
+    </xsl:template>
+    
+    <xsl:template match="concept[@statusCode='final']" mode="detail">
         <data type="{name[@language=$lang]/string()}" label="{string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')}" datatype="enum">
             <enumValue>ValueSetFromConcept</enumValue>
             <enumValue>ValueFromConcept</enumValue>
@@ -58,14 +79,17 @@
                 </xsl:for-each>
             </xsl:if>
         </data>
-        <xsl:apply-templates/>
+        <xsl:apply-templates mode="detail"/>
     </xsl:template>
--->
-    <xsl:template match="concept[name][@statusCode='final']">
+
+    <xsl:template match="concept[name][@statusCode='final']" mode="plain">
         <enumValue><xsl:value-of select="string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')"/></enumValue>
-        <xsl:apply-templates/>
+        <xsl:apply-templates mode="plain"/>
     </xsl:template>
     
-    <xsl:template match="@*|node()">
-    </xsl:template>
+    <xsl:template match="@*|node()" mode="detail"/>
+    
+
+    <xsl:template match="@*|node()" mode="plain"/>
+    
 </xsl:stylesheet>
