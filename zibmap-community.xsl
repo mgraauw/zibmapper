@@ -8,12 +8,12 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" indent="yes"/>
     <xsl:variable name="lang" select="'nl-NL'"/>
-    <xsl:variable name="mode" select="'detail'"/> <!-- detail or plain -->
+    <xsl:variable name="mode" select="'simple'"/> <!-- detail or simple -->
     
     <xsl:template match="/">
         <xsl:choose>
-            <xsl:when test="$mode='plain'">
-                <xsl:call-template name="plain"/>
+            <xsl:when test="$mode='simple'">
+                <xsl:call-template name="simple"/>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:call-template name="detail"/>
@@ -21,14 +21,18 @@
         </xsl:choose>
     </xsl:template>
 
-    <xsl:template name="plain">
+    <xsl:template name="simple">
         <prototype>
             <data type="zib2017type" label="zib 2017" datatype="enum">
                 <xsl:for-each select="//dataset[@statusCode='final']">
                     <xsl:sort select="concept/name[@language=$lang]"/>
-                    <xsl:apply-templates mode="plain"/>
+                    <xsl:apply-templates mode="simple"/>
                 </xsl:for-each>
             </data>
+            <!-- Do details for a few specializable groups. Just for items, no groups. -->
+            <xsl:for-each select="//dataset[@statusCode='final']/concept[name = ('Verrichting', 'Probleem', 'AlgemeneMeting', 'LaboratoriumUitslag')]">
+                <xsl:apply-templates mode="detail"/>
+            </xsl:for-each>
             <data type="zib2017value" label="zib 2017 value" datatype="enum">
                 <enumValue>ValueSetFromConcept</enumValue>
                 <enumValue>ValueFromConcept</enumValue>
@@ -82,14 +86,14 @@
         <xsl:apply-templates mode="detail"/>
     </xsl:template>
 
-    <xsl:template match="concept[name][@statusCode='final']" mode="plain">
-        <enumValue><xsl:value-of select="string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')"/></enumValue>
-        <xsl:apply-templates mode="plain"/>
+    <xsl:template match="concept[name][@statusCode='final']" mode="simple">
+        <enumValue><xsl:value-of select="concat(string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.'), if(concept) then ' (groep)' else '')"/></enumValue>
+        <xsl:apply-templates mode="simple"/>
     </xsl:template>
     
     <xsl:template match="@*|node()" mode="detail"/>
     
 
-    <xsl:template match="@*|node()" mode="plain"/>
+    <xsl:template match="@*|node()" mode="simple"/>
     
 </xsl:stylesheet>
