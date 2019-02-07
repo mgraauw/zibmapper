@@ -872,7 +872,9 @@
       <enumValue>Zwangerschap.Pariteit</enumValue>
       <enumValue>Zwangerschap.Toelichting</enumValue>
    </data>
-   <data type="Onderzoek" label="AlgemeneMeting.Onderzoek" datatype="enum">
+   <data type="AlgemeneMeting.Onderzoek"
+         label="AlgemeneMeting.Onderzoek"
+         datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -881,7 +883,7 @@
       <enumValue>UNK</enumValue>
       <enumValue>SNOMED CT</enumValue>
    </data>
-   <data type="ResultaatStatus"
+   <data type="AlgemeneMeting.ResultaatStatus"
          label="AlgemeneMeting.ResultaatStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -896,7 +898,7 @@
       <enumValue>=Aanvullend</enumValue>
       <enumValue>=Gecorrigeerd</enumValue>
    </data>
-   <data type="Toelichting"
+   <data type="AlgemeneMeting.Toelichting"
          label="AlgemeneMeting.Toelichting"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -906,343 +908,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="MeetUitslag"
-         label="AlgemeneMeting.MeetUitslag"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="MetingNaam"
-         label="AlgemeneMeting.MeetUitslag.MetingNaam"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>SNOMED CT</enumValue>
-   </data>
-   <data type="UitslagWaarde"
-         label="AlgemeneMeting.MeetUitslag.UitslagWaarde"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Meetmethode"
-         label="AlgemeneMeting.MeetUitslag.Meetmethode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>SNOMED CT</enumValue>
-   </data>
-   <data type="UitslagDatumTijd"
-         label="AlgemeneMeting.MeetUitslag.UitslagDatumTijd"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="LaboratoriumTest"
-         label="LaboratoriumUitslag.LaboratoriumTest"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="TestCode"
-         label="LaboratoriumUitslag.LaboratoriumTest.TestCode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>LOINC</enumValue>
-   </data>
-   <data type="Testmethode"
-         label="LaboratoriumUitslag.LaboratoriumTest.Testmethode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="TestDatumTijd"
-         label="LaboratoriumUitslag.LaboratoriumTest.TestDatumTijd"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="TestUitslag"
-         label="LaboratoriumUitslag.LaboratoriumTest.TestUitslag"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="TestUitslagStatus"
-         label="LaboratoriumUitslag.LaboratoriumTest.TestUitslagStatus"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>=Uitslag volgt</enumValue>
-      <enumValue>=Voorlopig</enumValue>
-      <enumValue>=Definitief</enumValue>
-      <enumValue>=Aanvullend</enumValue>
-      <enumValue>=Gecorrigeerd</enumValue>
-   </data>
-   <data type="ReferentieBovengrens"
-         label="LaboratoriumUitslag.LaboratoriumTest.ReferentieBovengrens"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="ReferentieOndergrens"
-         label="LaboratoriumUitslag.LaboratoriumTest.ReferentieOndergrens"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="InterpretatieMethode"
-         label="LaboratoriumUitslag.LaboratoriumTest.InterpretatieMethode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>=EUCAST</enumValue>
-   </data>
-   <data type="InterpretatieVlaggen"
-         label="LaboratoriumUitslag.LaboratoriumTest.InterpretatieVlaggen"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>=Boven referentiewaarde</enumValue>
-      <enumValue>=Onder referentiewaarde</enumValue>
-      <enumValue>=Intermediair</enumValue>
-      <enumValue>=Resistent</enumValue>
-      <enumValue>=Sensitief</enumValue>
-   </data>
-   <data type="UitslagInterpretatie"
-         label="LaboratoriumUitslag.LaboratoriumTest.UitslagInterpretatie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Monster" label="LaboratoriumUitslag.Monster" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Monsternummer"
-         label="LaboratoriumUitslag.Monster.Monsternummer"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Monstervolgnummer"
-         label="LaboratoriumUitslag.Monster.Monstervolgnummer"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Containertype"
-         label="LaboratoriumUitslag.Monster.Containertype"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Monstermateriaal"
-         label="LaboratoriumUitslag.Monster.Monstermateriaal"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Microorganisme"
-         label="LaboratoriumUitslag.Monster.Microorganisme"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>SNOMED CT</enumValue>
-   </data>
-   <data type="Verzamelvolume"
-         label="LaboratoriumUitslag.Monster.Verzamelvolume"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Verzamelperiode"
-         label="LaboratoriumUitslag.Monster.Verzamelperiode"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="AfnameDatumTijd"
-         label="LaboratoriumUitslag.Monster.AfnameDatumTijd"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="AannameDatumTijd"
-         label="LaboratoriumUitslag.Monster.AannameDatumTijd"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Afnameprocedure"
-         label="LaboratoriumUitslag.Monster.Afnameprocedure"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="AnatomischeLocatie"
-         label="LaboratoriumUitslag.Monster.AnatomischeLocatie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Lateraliteit"
-         label="LaboratoriumUitslag.Monster.Lateraliteit"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-      <enumValue>=Links</enumValue>
-      <enumValue>=Rechts</enumValue>
-      <enumValue>=Rechts en links</enumValue>
-   </data>
-   <data type="Morfologie"
-         label="LaboratoriumUitslag.Monster.Morfologie"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="BronMonster"
-         label="LaboratoriumUitslag.Monster.BronMonster"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Toelichting"
-         label="LaboratoriumUitslag.Monster.Toelichting"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Onderzoek"
+   <data type="LaboratoriumUitslag.Onderzoek"
          label="LaboratoriumUitslag.Onderzoek"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1253,7 +919,7 @@
       <enumValue>UNK</enumValue>
       <enumValue>LOINC</enumValue>
    </data>
-   <data type="ResultaatStatus"
+   <data type="LaboratoriumUitslag.ResultaatStatus"
          label="LaboratoriumUitslag.ResultaatStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1268,7 +934,7 @@
       <enumValue>=Aanvullend</enumValue>
       <enumValue>=Gecorrigeerd</enumValue>
    </data>
-   <data type="Toelichting"
+   <data type="LaboratoriumUitslag.Toelichting"
          label="LaboratoriumUitslag.Toelichting"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1278,7 +944,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="ResultaatType"
+   <data type="LaboratoriumUitslag.ResultaatType"
          label="LaboratoriumUitslag.ResultaatType"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1295,27 +961,7 @@
       <enumValue>=Microbiologie</enumValue>
       <enumValue>=Moleculaire genetica</enumValue>
    </data>
-   <data type="GerelateerdeUitslag"
-         label="LaboratoriumUitslag.GerelateerdeUitslag"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Aanvrager"
-         label="LaboratoriumUitslag.Aanvrager"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="ProbleemAnatomischeLocatie"
+   <data type="Probleem.ProbleemAnatomischeLocatie"
          label="Probleem.ProbleemAnatomischeLocatie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1325,7 +971,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="ProbleemLateraliteit"
+   <data type="Probleem.ProbleemLateraliteit"
          label="Probleem.ProbleemLateraliteit"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1338,7 +984,9 @@
       <enumValue>=Rechts</enumValue>
       <enumValue>=Rechts en links</enumValue>
    </data>
-   <data type="ProbleemType" label="Probleem.ProbleemType" datatype="enum">
+   <data type="Probleem.ProbleemType"
+         label="Probleem.ProbleemType"
+         datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1351,7 +999,9 @@
       <enumValue>=Functionele Beperking</enumValue>
       <enumValue>=Complicatie</enumValue>
    </data>
-   <data type="ProbleemNaam" label="Probleem.ProbleemNaam" datatype="enum">
+   <data type="Probleem.ProbleemNaam"
+         label="Probleem.ProbleemNaam"
+         datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1368,7 +1018,7 @@
       <enumValue>DSM-IV</enumValue>
       <enumValue>DSM-V</enumValue>
    </data>
-   <data type="ProbleemBeginDatum"
+   <data type="Probleem.ProbleemBeginDatum"
          label="Probleem.ProbleemBeginDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1378,7 +1028,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="ProbleemEindDatum"
+   <data type="Probleem.ProbleemEindDatum"
          label="Probleem.ProbleemEindDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1388,7 +1038,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="ProbleemStatus"
+   <data type="Probleem.ProbleemStatus"
          label="Probleem.ProbleemStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1400,7 +1050,7 @@
       <enumValue>=Actueel</enumValue>
       <enumValue>=Niet actueel</enumValue>
    </data>
-   <data type="VerificatieStatus"
+   <data type="Probleem.VerificatieStatus"
          label="Probleem.VerificatieStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1415,7 +1065,9 @@
       <enumValue>=Uitgesloten</enumValue>
       <enumValue>=Onbekend</enumValue>
    </data>
-   <data type="Toelichting" label="Probleem.Toelichting" datatype="enum">
+   <data type="Probleem.Toelichting"
+         label="Probleem.Toelichting"
+         datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
@@ -1423,7 +1075,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="VerrichtingStartDatum"
+   <data type="Verrichting.VerrichtingStartDatum"
          label="Verrichting.VerrichtingStartDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1433,7 +1085,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="VerrichtingEindDatum"
+   <data type="Verrichting.VerrichtingEindDatum"
          label="Verrichting.VerrichtingEindDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1443,7 +1095,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="VerrichtingAnatomischeLocatie"
+   <data type="Verrichting.VerrichtingAnatomischeLocatie"
          label="Verrichting.VerrichtingAnatomischeLocatie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1453,7 +1105,7 @@
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
-   <data type="VerrichtingLateraliteit"
+   <data type="Verrichting.VerrichtingLateraliteit"
          label="Verrichting.VerrichtingLateraliteit"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1466,15 +1118,7 @@
       <enumValue>=Rechts</enumValue>
       <enumValue>=Rechts en links</enumValue>
    </data>
-   <data type="Indicatie" label="Verrichting.Indicatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="VerrichtingType"
+   <data type="Verrichting.VerrichtingType"
          label="Verrichting.VerrichtingType"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
@@ -1485,43 +1129,9 @@
       <enumValue>UNK</enumValue>
       <enumValue>SNOMED CT</enumValue>
    </data>
-   <data type="VerrichtingMethode"
+   <data type="Verrichting.VerrichtingMethode"
          label="Verrichting.VerrichtingMethode"
          datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="MedischHulpmiddel"
-         label="Verrichting.MedischHulpmiddel"
-         datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Locatie" label="Verrichting.Locatie" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Uitvoerder" label="Verrichting.Uitvoerder" datatype="enum">
-      <enumValue>ValueSetFromConcept</enumValue>
-      <enumValue>ValueFromConcept</enumValue>
-      <enumValue>UnitFromConcept</enumValue>
-      <enumValue>NP</enumValue>
-      <enumValue>OTH</enumValue>
-      <enumValue>UNK</enumValue>
-   </data>
-   <data type="Aanvrager" label="Verrichting.Aanvrager" datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>

@@ -30,7 +30,7 @@
                 </xsl:for-each>
             </data>
             <!-- Do details for a few specializable groups. Just for items, no groups. -->
-            <xsl:for-each select="//dataset[@statusCode='final']/concept[name = ('Verrichting', 'Probleem', 'AlgemeneMeting', 'LaboratoriumUitslag')]">
+            <xsl:for-each select="//dataset[@statusCode='final']//concept[@statusCode='final'][name = ('Verrichting', 'Probleem', 'AlgemeneMeting', 'LaboratoriumUitslag')]">
                 <xsl:apply-templates mode="detail"/>
             </xsl:for-each>
             <data type="zib2017value" label="zib 2017 value" datatype="enum">
@@ -56,8 +56,9 @@
         </prototype>
     </xsl:template>
     
-    <xsl:template match="concept[name][@statusCode='final']" mode="detail">
-        <data type="{name[@language=$lang]/string()}" label="{string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')}" datatype="enum">
+    <xsl:template match="concept[name][@statusCode='final'][valueDomain]" mode="detail">
+        <xsl:variable name="naam" select="string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')"/>
+        <data type="{$naam}" label="{$naam}" datatype="enum">
             <enumValue>ValueSetFromConcept</enumValue>
             <enumValue>ValueFromConcept</enumValue>
             <enumValue>UnitFromConcept</enumValue>
@@ -87,7 +88,7 @@
     </xsl:template>
 
     <xsl:template match="concept[name][@statusCode='final']" mode="simple">
-        <enumValue><xsl:value-of select="concat(string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.'), if(concept) then ' (groep)' else '')"/></enumValue>
+        <enumValue><xsl:value-of select="concat(string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.'), if(valueDomain) then '' else ' (groep)')"/></enumValue>
         <xsl:apply-templates mode="simple"/>
     </xsl:template>
     
