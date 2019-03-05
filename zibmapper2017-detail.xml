@@ -876,9 +876,11 @@
          label="AlgemeneMeting.Onderzoek"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
       <enumValue>SNOMED CT</enumValue>
@@ -887,24 +889,28 @@
          label="AlgemeneMeting.ResultaatStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Uitslag volgt</enumValue>
-      <enumValue>=Voorlopig</enumValue>
-      <enumValue>=Definitief</enumValue>
-      <enumValue>=Aanvullend</enumValue>
-      <enumValue>=Gecorrigeerd</enumValue>
+      <enumValue>="Uitslag volgt"</enumValue>
+      <enumValue>="Voorlopig"</enumValue>
+      <enumValue>="Definitief"</enumValue>
+      <enumValue>="Aanvullend"</enumValue>
+      <enumValue>="Gecorrigeerd"</enumValue>
    </data>
    <data type="AlgemeneMeting.Toelichting"
          label="AlgemeneMeting.Toelichting"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -912,9 +918,11 @@
          label="LaboratoriumUitslag.Onderzoek"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
       <enumValue>LOINC</enumValue>
@@ -923,24 +931,28 @@
          label="LaboratoriumUitslag.ResultaatStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Uitslag volgt</enumValue>
-      <enumValue>=Voorlopig</enumValue>
-      <enumValue>=Definitief</enumValue>
-      <enumValue>=Aanvullend</enumValue>
-      <enumValue>=Gecorrigeerd</enumValue>
+      <enumValue>="Uitslag volgt"</enumValue>
+      <enumValue>="Voorlopig"</enumValue>
+      <enumValue>="Definitief"</enumValue>
+      <enumValue>="Aanvullend"</enumValue>
+      <enumValue>="Gecorrigeerd"</enumValue>
    </data>
    <data type="LaboratoriumUitslag.Toelichting"
          label="LaboratoriumUitslag.Toelichting"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -948,26 +960,30 @@
          label="LaboratoriumUitslag.ResultaatType"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Hematologie</enumValue>
-      <enumValue>=Klinische chemie</enumValue>
-      <enumValue>=Serologie/ immunologie</enumValue>
-      <enumValue>=Virologie</enumValue>
-      <enumValue>=Toxicologie</enumValue>
-      <enumValue>=Microbiologie</enumValue>
-      <enumValue>=Moleculaire genetica</enumValue>
+      <enumValue>="Hematologie"</enumValue>
+      <enumValue>="Klinische chemie"</enumValue>
+      <enumValue>="Serologie/ immunologie"</enumValue>
+      <enumValue>="Virologie"</enumValue>
+      <enumValue>="Toxicologie"</enumValue>
+      <enumValue>="Microbiologie"</enumValue>
+      <enumValue>="Moleculaire genetica"</enumValue>
    </data>
    <data type="Probleem.ProbleemAnatomischeLocatie"
          label="Probleem.ProbleemAnatomischeLocatie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -975,37 +991,43 @@
          label="Probleem.ProbleemLateraliteit"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Links</enumValue>
-      <enumValue>=Rechts</enumValue>
-      <enumValue>=Rechts en links</enumValue>
+      <enumValue>="Links"</enumValue>
+      <enumValue>="Rechts"</enumValue>
+      <enumValue>="Rechts en links"</enumValue>
    </data>
    <data type="Probleem.ProbleemType"
          label="Probleem.ProbleemType"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Diagnose</enumValue>
-      <enumValue>=Symptoom</enumValue>
-      <enumValue>=Klacht</enumValue>
-      <enumValue>=Functionele Beperking</enumValue>
-      <enumValue>=Complicatie</enumValue>
+      <enumValue>="Diagnose"</enumValue>
+      <enumValue>="Symptoom"</enumValue>
+      <enumValue>="Klacht"</enumValue>
+      <enumValue>="Functionele Beperking"</enumValue>
+      <enumValue>="Complicatie"</enumValue>
    </data>
    <data type="Probleem.ProbleemNaam"
          label="Probleem.ProbleemNaam"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
       <enumValue>SNOMED CT</enumValue>
@@ -1022,9 +1044,11 @@
          label="Probleem.ProbleemBeginDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1032,9 +1056,11 @@
          label="Probleem.ProbleemEindDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1042,36 +1068,42 @@
          label="Probleem.ProbleemStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Actueel</enumValue>
-      <enumValue>=Niet actueel</enumValue>
+      <enumValue>="Actueel"</enumValue>
+      <enumValue>="Niet actueel"</enumValue>
    </data>
    <data type="Probleem.VerificatieStatus"
          label="Probleem.VerificatieStatus"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Werk</enumValue>
-      <enumValue>=Differentiaal</enumValue>
-      <enumValue>=Bevestigd</enumValue>
-      <enumValue>=Uitgesloten</enumValue>
-      <enumValue>=Onbekend</enumValue>
+      <enumValue>="Werk"</enumValue>
+      <enumValue>="Differentiaal"</enumValue>
+      <enumValue>="Bevestigd"</enumValue>
+      <enumValue>="Uitgesloten"</enumValue>
+      <enumValue>="Onbekend"</enumValue>
    </data>
    <data type="Probleem.Toelichting"
          label="Probleem.Toelichting"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1079,9 +1111,11 @@
          label="Verrichting.VerrichtingStartDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1089,9 +1123,11 @@
          label="Verrichting.VerrichtingEindDatum"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1099,9 +1135,11 @@
          label="Verrichting.VerrichtingAnatomischeLocatie"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>
@@ -1109,22 +1147,26 @@
          label="Verrichting.VerrichtingLateraliteit"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
-      <enumValue>=Links</enumValue>
-      <enumValue>=Rechts</enumValue>
-      <enumValue>=Rechts en links</enumValue>
+      <enumValue>="Links"</enumValue>
+      <enumValue>="Rechts"</enumValue>
+      <enumValue>="Rechts en links"</enumValue>
    </data>
    <data type="Verrichting.VerrichtingType"
          label="Verrichting.VerrichtingType"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
       <enumValue>SNOMED CT</enumValue>
@@ -1133,9 +1175,11 @@
          label="Verrichting.VerrichtingMethode"
          datatype="enum">
       <enumValue>ValueSetFromConcept</enumValue>
+      <enumValue>SnomedCtCodeFromConcept</enumValue>
       <enumValue>ValueFromConcept</enumValue>
       <enumValue>UnitFromConcept</enumValue>
       <enumValue>NP</enumValue>
+      <enumValue>RELATED</enumValue>
       <enumValue>OTH</enumValue>
       <enumValue>UNK</enumValue>
    </data>

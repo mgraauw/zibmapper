@@ -60,9 +60,11 @@
         <xsl:variable name="naam" select="string-join(ancestor-or-self::concept/name[@language=$lang]/string(), '.')"/>
         <data type="{$naam}" label="{$naam}" datatype="enum">
             <enumValue>ValueSetFromConcept</enumValue>
+            <enumValue>SnomedCtCodeFromConcept</enumValue>
             <enumValue>ValueFromConcept</enumValue>
             <enumValue>UnitFromConcept</enumValue>
             <enumValue>NP</enumValue>
+            <enumValue>RELATED</enumValue>
             <enumValue>OTH</enumValue>
             <enumValue>UNK</enumValue>
             <xsl:if test="valueDomain[@type='code']">
@@ -75,10 +77,10 @@
                 <xsl:for-each select="$valueSet/conceptList/(concept | exception)">
                     <xsl:choose>
                         <xsl:when test="designation[@language=$lang]">
-                            <enumValue>=<xsl:value-of select="designation[@language=$lang]/@displayName/string()"/></enumValue>
+                            <enumValue>="<xsl:value-of select="designation[@language=$lang]/@displayName/string()"/>"</enumValue>
                         </xsl:when>
                         <xsl:otherwise>
-                            <enumValue>=<xsl:value-of select="./@displayName/string()"/></enumValue>
+                            <enumValue>="<xsl:value-of select="./@displayName/string()"/>"</enumValue>
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:for-each>
