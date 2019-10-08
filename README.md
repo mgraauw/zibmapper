@@ -5,4 +5,4 @@ De echte zibmapper zit in zibmapper2017-detail.xml. Gebruik:
 * `<prototype ref="https://raw.githubusercontent.com/mgraauw/zibmapper/master/zibmapper2017-detail.xml"/>`
 * kan nu alleen nog als backend actie
 
-De xsl is een hulpmiddel om zibmappers te genereren iut een DECOR bestand met zib definities.
+De xsl is een hulpmiddel om zibmappers te genereren uit een DECOR bestand met zib definities.
